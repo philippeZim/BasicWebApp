@@ -13,12 +13,12 @@ public class QueryProcessor {
                     "writer in the English language and the world's pre-eminent dramatist.";
         } else if (query.contains("name")) {
            return "MyTeam";
-        } else if(query.contains("2269d5d0")){
-            return "493";
-        }else if(query.contains("1f1ee2d0")){
+        } else if(query.contains("b5fb1260")){
+            return "28";
+        }else if(query.contains("b9ef2e30")){
             return "716";
-        }else if(query.contains("1be2e3e0")){
-            return "27";
+        }else if(query.contains("ce8de930")){
+            return "17";
         }else { // TODO extend the programm here
             return "";
         }
